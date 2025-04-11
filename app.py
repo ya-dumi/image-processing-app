@@ -4,7 +4,7 @@ import cv2
 from PIL import Image
 
 # Title of the app
-st.title("🌟 Simple Image Processing App")
+st.title("🌟 Image Processing App")
 
 # Image uploader widget
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
